@@ -34,15 +34,15 @@ Each command comes with an explanation and real-world examples for web developme
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/git-command-cheatsheet.git
+   git clone https://github.com/mangunkars26/git-command-cheatsheet.git
 Navigate to the project directory:
 
-bash
+```bash
 Salin kode
 cd git-command-cheatsheet
 Open index.html in your browser:
 
-bash
+```bash
 Salin kode
 open index.html
 Contribution
@@ -51,7 +51,7 @@ Feel free to contribute! If you have additional Git commands, tips, or design im
 Steps to Contribute:
 Fork the repository.
 Create a new branch:
-bash
+```bash
 Salin kode
 git checkout -b feature-branch
 Make your changes and commit them:
